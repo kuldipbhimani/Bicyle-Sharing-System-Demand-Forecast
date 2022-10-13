@@ -1,2 +1,2 @@
 # Bicyle-Sharing-System-Demand-Forecast
-Used Machine Learning regression models like Logistic regression, Decision Tree to make demand prediction.
+Implimation of Machine Learning regression models like Logistic regression, Decision Tree on dataset to make hourly bike demand forcast prediction.
